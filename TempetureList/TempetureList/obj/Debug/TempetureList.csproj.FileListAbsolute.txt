@@ -1,0 +1,7 @@
+C:\Users\gw309661\Desktop\C#\chapter 6\TempetureList\TempetureList\bin\Debug\TempetureList.exe.config
+C:\Users\gw309661\Desktop\C#\chapter 6\TempetureList\TempetureList\bin\Debug\TempetureList.exe
+C:\Users\gw309661\Desktop\C#\chapter 6\TempetureList\TempetureList\bin\Debug\TempetureList.pdb
+C:\Users\gw309661\Desktop\C#\chapter 6\TempetureList\TempetureList\obj\Debug\TempetureList.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 6\TempetureList\TempetureList\obj\Debug\TempetureList.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 6\TempetureList\TempetureList\obj\Debug\TempetureList.exe
+C:\Users\gw309661\Desktop\C#\chapter 6\TempetureList\TempetureList\obj\Debug\TempetureList.pdb

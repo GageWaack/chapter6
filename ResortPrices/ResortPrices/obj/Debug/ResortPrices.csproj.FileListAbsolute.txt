@@ -1,0 +1,7 @@
+C:\Users\gw309661\Desktop\C#\chapter 6\ResortPrices\ResortPrices\bin\Debug\ResortPrices.exe.config
+C:\Users\gw309661\Desktop\C#\chapter 6\ResortPrices\ResortPrices\bin\Debug\ResortPrices.exe
+C:\Users\gw309661\Desktop\C#\chapter 6\ResortPrices\ResortPrices\bin\Debug\ResortPrices.pdb
+C:\Users\gw309661\Desktop\C#\chapter 6\ResortPrices\ResortPrices\obj\Debug\ResortPrices.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 6\ResortPrices\ResortPrices\obj\Debug\ResortPrices.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 6\ResortPrices\ResortPrices\obj\Debug\ResortPrices.exe
+C:\Users\gw309661\Desktop\C#\chapter 6\ResortPrices\ResortPrices\obj\Debug\ResortPrices.pdb

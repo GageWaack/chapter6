@@ -1,0 +1,7 @@
+C:\Users\gw309661\Desktop\C#\chapter 6\ScoresComparison\ScoresComparison\bin\Debug\ScoresComparison.exe.config
+C:\Users\gw309661\Desktop\C#\chapter 6\ScoresComparison\ScoresComparison\bin\Debug\ScoresComparison.exe
+C:\Users\gw309661\Desktop\C#\chapter 6\ScoresComparison\ScoresComparison\bin\Debug\ScoresComparison.pdb
+C:\Users\gw309661\Desktop\C#\chapter 6\ScoresComparison\ScoresComparison\obj\Debug\ScoresComparison.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 6\ScoresComparison\ScoresComparison\obj\Debug\ScoresComparison.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 6\ScoresComparison\ScoresComparison\obj\Debug\ScoresComparison.exe
+C:\Users\gw309661\Desktop\C#\chapter 6\ScoresComparison\ScoresComparison\obj\Debug\ScoresComparison.pdb
